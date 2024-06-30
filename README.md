@@ -1,2 +1,2 @@
 # Platonic-Solid-Circumsphere-Calculator
-Calculate Lat/Long coordinates of the intersections of the vertices of any Platonic Solid, rotated in 3D space, onto its encapsulating circumsphere.
+Calculate Latitude/Longitude coordinates of the vertices of any Platonic Solid, rotated to any 3D orientation within its encapsulating circumsphere.
