@@ -1,16 +1,16 @@
 # Polyhedron-Circumsphere-Inscriber
 Calculates the intersections of each vertex of a polyhedron with its circumsphere when the polyhedron is rotated to any 3D orientation wrt the circumsphere's geographic coordinate system.
 
-The initial version only supports Platonic Solids (Tetrahedron, Cube, Octahedron, Dodecahedron, and Icosahedron). These were the simplest polyhedrons to model as a class because of the uniformity of their faces.
+The initial version only supports Platonic Solids (Tetrahedron, Hexahedron, Octahedron, Dodecahedron, and Icosahedron). These were the simplest polyhedrons to model as a class because of the uniformity of their faces.
 
-I have a plan for adding the Truncated-, Stubbed-, and Rhombic- variants of the Platonic Solids, but I don't personally have a need for them, so I might never get to it.  If you have need for them, though, I'll either add them or help you do it.
+I have a plan for adding the Truncated-, Stubbed-, and Rhombic- variants of the Platonic Solids, but I don't personally have a need for them, so I might never get to it.  If you have need for them, though, I'll be happy to either add them or help you do it.
 
-## Why would I inscribe a polyhedron to its circumsphere at arbitrary 3D orientations?
+## Why would I inscribe a polyhedron's vertices onto its circumsphere at arbitrary 3D orientations?
 I have no idea why you'd want to do it.
 
 I did it for Dyson Sphere Program (DSP), an absolutely gorgeous single-player interstellar factory simulation game.  Highly recommended if you enjoy factory simulation games. (https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/).  
 
-If you're not here for DSP, the rest of this section is irrelevant... but I'd love why someone would use it for anything other than DSP.  Say 'Hi' to @dfs59xy on Discord and teach me something new!
+If you're not here for DSP, the rest of this section is irrelevant... but I'd love to know why someone would use it for anything other than DSP.  Say 'Hi' to @dfs59xy on Discord and teach me something new!
 
 In the December 2023 update to DSP, Youthcat Studio add the Dark Fog (DF) combat upgrade to the game.  DF is a self-replicating AI-enabled robotic mining hive that's propogating out-of-control throughout the star-cluster surrounding your home world. Players who choose to enable Dark Fog enjoy the ability to loot valuable resources when destroying the enemy units, but at the cost of expending valuable resources to build and maintain offensive/defensive equipment for controlling and exploiting the DF bases.
 
