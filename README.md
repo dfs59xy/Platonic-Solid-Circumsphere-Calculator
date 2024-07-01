@@ -34,5 +34,5 @@ My initial goal was to figure out how to find the vertices of a cube rotated on 
 Other isotropic and anisotropic polyhedrons could be added with varying degrees of difficult.  Rhombic and truncated polyhedrons might be most easy to add as an abstracted group.  Once we move away from the Platonic Solids, though, the shapes and areas of some faces of the polyhedron will be distorted by the fact that some vertices will have to be 'projected' to the circumsphere rather than inscribed directly upon it.
 
 ## Can I see the formulas?
-Most of the columns and tabs are 'locked' in Excel, but you're welcome to see them.  They weren't locked to keep anything secret, just to prevent the formulas from being accidentally 'broken' by casual users. If you're inclined to see the innards, simply unlock the hidden columns and tabs using the password 'Qu@gmir3'.  If you have questions, please contact @dfs59xy on Discord.
+Most of the columns and tabs are 'protected' in Excel, but you're welcome to see them.  They're not protected to keep them secret, but instead just to hide the _Quagmire_. The password to unlock everything is yours for the asking, @dfs59xy on Discord.
 
