@@ -2,7 +2,9 @@
 Calculate Latitude/Longitude coordinates of the vertices of any Platonic Solid, rotated to any 3D orientation within its encapsulating circumsphere.
 
 ## Why would I want to do that?
-No idea why you'd want to, but I did it for Dyson Sphere Program (DSP), an absolutely gorgeous single-player interstellar factory simulation game.  Highly recommended if you enjoy factory simulation games.  (https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/).  If you're not here for DSP, the rest of this section is irrelevant.
+No idea why you'd want to, but I did it for Dyson Sphere Program (DSP), an absolutely gorgeous single-player interstellar factory simulation game.  Highly recommended if you enjoy factory simulation games.  (https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/).  
+
+If you're not here for DSP, the rest of this section is irrelevant!
 
 In a December 2023 update, Youthcat Studio add the Dark Fog (DF) combat upgrade to the game.  DF is a self-replicating AI-enabled robotic mining hive that's propogating out-of-control throughout the star-cluster surrounding your home world. Players who choose to enable Dark Fog enjoy the ability to loot valuable resources when destroying the enemy units, but at the cost of expending valuable resources to build and maintain offensive/defensive equipment for controlling and exploiting the DF bases.
 
